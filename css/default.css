@@ -1,6 +1,8 @@
 body{
     font-family: "Arial";
-    background-color: yellow;
+    background-color: pink;
+    font-size: 40px;
+    color:"white"
 }
 
 .clearfix{
