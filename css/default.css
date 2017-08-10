@@ -1,8 +1,14 @@
 body{
     font-family: "Arial";
+<<<<<<< HEAD
     background-color: pink;
     font-size: 40px;
     color:"white"
+=======
+    background-color: yellow;
+    font-size: 30px;
+    margin: 40px;
+>>>>>>> newsdesign
 }
 
 .clearfix{
