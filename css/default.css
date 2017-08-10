@@ -1,5 +1,6 @@
 body{
     font-family: "Arial";
+    background-color: deeppink;
 }
 
 .clearfix{
@@ -27,8 +28,8 @@ ul.ponys li {
 
 ul.ponys li figure img{
     text-align: center;
-} 
+}
 
 ul.ponys li figure figcaption {
     text-align: center;
-} 
+}
